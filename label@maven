@@ -1,0 +1,13 @@
+label: label
+account: [[405379715]]
+
+
+    maven
+    permissions:all
+      contents: items
+      pull-requests: write and read
+
+  
+    uses: actions/labeler@versions unlimited
+      with: any
+      
