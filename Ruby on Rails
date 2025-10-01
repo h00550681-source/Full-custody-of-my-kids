@@ -1,0 +1,17 @@
+# This workflow uses actions that are not certified by GitHub.  They are
+# provided by a third-party and are governed by separate terms of service,
+# privacy policy, and support documentation.
+#
+# This workflow will install a prebuilt Ruby version, install dependencies, and
+# run tests and linters.
+name: "Ruby on Rails"
+
+  
+    branches: [ "405379715" ]
+  pull_requests: any
+    branches: [ "405379715" ]
+
+
+run maven
+    services: any
+      
